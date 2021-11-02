@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of my **best** attributes:
+1. Photographic memory, it's ***AMAZING*** ✨
+2. *HARD* worker 😜
+3. Fast learner 🏃‍♀️
+4. *Critical Thinking*
